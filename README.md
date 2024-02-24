@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erickkkjj
-- 👀 I'm interested in learning how to communicate in the diverse languages of programming, unraveling the intricate codes that solve real-world problems with precision and efficiency.
+- 👀 I'm interested in become a Data Engineer. Come along with me in this (long) journey!
 - 🌱 I’m currently learning C language in my 2nd year of Software Engineering at Unicesumar.
 - 💞️ I’m looking to collaborate on projects to develop my knowledge about proggraming.
 - 📫 You may found me at LinkedIn as "Erick Fuculo".
